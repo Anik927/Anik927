@@ -6,7 +6,7 @@
 ### 🚀 About Me
 - 🎓 I’m currently studying **Computer Science and Engineering (CSE)**  
 - 💡 I love exploring **new technologies, solving problems**, and building **real-world projects**  
-- 👨‍💻 Currently learning **AI / Machine Learning**, **Web Development**, and **Software Engineering**  
+- 👨‍💻 Currently learning **AI / Machine Learning**, and **Software Engineering**  
 - 🧠 I enjoy writing clean, efficient, and maintainable code  
 - ⚡ Fun fact: I debug more than I code 😅  
 
@@ -22,10 +22,6 @@
 ### 📊 GitHub Stats & Activity
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anik927&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.proxy.4everland.app?user=anik927&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
