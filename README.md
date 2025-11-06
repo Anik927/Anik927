@@ -29,6 +29,11 @@
 </p>
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=anik927&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anik927&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
