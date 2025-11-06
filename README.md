@@ -20,16 +20,20 @@
 ---
 
 ### 📊 GitHub Stats & Activity
+
+#### ⚡ GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anik927&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anik927&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="60%"/>
 </p>
 
+#### 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anik927&theme=tokyonight" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=anik927&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%"/>
 </p>
 
+#### 🧩 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anik927&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anik927&layout=compact&theme=tokyonight" alt="Top Languages" width="60%"/>
 </p>
 
 ---
@@ -38,7 +42,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-100000.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/anik927"><img src="https://img.shields.io/badge/GitHub-100000.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
@@ -57,5 +61,5 @@
 
 ### 🐍 Contribution Snake (Just for fun!)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/anik927/anik927/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
