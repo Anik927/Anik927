@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anik927&theme=tokyonight" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=anik927&theme=tokyonight&hide_border=false&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
 
 <p align="center">
