@@ -7,8 +7,8 @@
 - 🎓 I’m currently studying **Computer Science and Engineering (CSE)**  
 - 💡 I love exploring **new technologies, solving problems**, and building **real-world projects**  
 - 👨‍💻 Currently learning **AI / Machine Learning**, and **Software Engineering**  
-- 🧠 I enjoy writing clean, efficient, and maintainable code  
-- ⚡ Fun fact: I debug more than I code 😅  
+- 🧠 I enjoy writing clean, efficient, and maintainable code (Not Sure Though xD)  
+- ⚡ Fun fact: I debug more than I code (Sometime I dont even know what am I doing) 😅  
 
 ---
 
@@ -51,9 +51,9 @@
 | **Languages** | Python, Java, C, C++, C# |
 | **Frontend** | HTML, CSS, JavaScript, React |
 | **Backend** | Node.js, Express.js |
-| **Database** | MySQL, MongoDB |
+| **Database** | MySQL, MicrosoftSQL, Oracle |
 | **Tools** | VS Code, Git, GitHub, Figma, Canva |
-| **Interest** | AI, Machine Learning, Software Design, Web Apps |
+| **Interest** | AI, Machine Learning, Software Designs |
 
 ---
 
