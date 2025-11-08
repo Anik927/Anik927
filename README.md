@@ -3,6 +3,11 @@
 
 ---
 
+### 🐍 Contribution Snake (Just for fun!)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
 ### 🚀 About Me
 - 🎓 I’m currently studying **Computer Science and Engineering (CSE)**  
 - 💡 I love exploring **new technologies, solving problems**, and building **real-world projects**  
@@ -56,8 +61,3 @@
 | **Interest** | AI, Machine Learning, Software Designs |
 
 ---
-
-### 🐍 Contribution Snake (Just for fun!)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
