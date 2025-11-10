@@ -53,8 +53,6 @@
 | Category | Skills |
 |-----------|---------|
 | **Languages** | Python, Java, C, C++, C# |
-| **Frontend** | HTML, CSS, JavaScript, React |
-| **Backend** | Node.js, Express.js |
 | **Database** | MySQL, MicrosoftSQL, Oracle |
 | **Tools** | VS Code, Git, GitHub, Figma, Canva |
 | **Interest** | AI, Machine Learning, Software Designs |
